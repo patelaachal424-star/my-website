@@ -1,0 +1,29 @@
+body {
+  background-color: #1a1a2e;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  background: #16213e;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+
+button {
+  background-color: #0f3460;
+  color: #e94560;
+  border: 1px solid #e94560;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 15px;
+}
